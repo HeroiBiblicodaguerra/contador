@@ -1,0 +1,15 @@
+1- count (conta)
+2- substr (campo, inicio, tamanho)
+3- year (campo de data ou data)
+4- month (campo de data ou data)
+5- day (campo de data ou data)
+6- where (seguido da condição)
+7-if (condição, oque fazer se verdadeiro, oque fazer se falso)
+8- insert into (tabela) (campos) value (valores)
+9- update (tabela) set (campo) = (valor)
+10- where (condição)
+11- concat ("campo ou valor", "campo ou valor")
+(campo) like "%valor%"
+and or
+12-rand() - sorteia um valor aleatorio entre 0 e 1
+13-order by (campo) (desc ou asc)

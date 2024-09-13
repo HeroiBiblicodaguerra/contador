@@ -1,0 +1,25 @@
+body{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem{
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fotos{
+    background-color: coral;
+    width: 800px;
+  
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}

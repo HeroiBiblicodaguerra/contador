@@ -1,0 +1,7 @@
+.quadrado{
+    background-color: #27b1bf;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
